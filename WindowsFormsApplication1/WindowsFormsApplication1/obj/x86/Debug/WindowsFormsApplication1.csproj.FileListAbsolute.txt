@@ -1,0 +1,34 @@
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PacketDotNet.dll
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SharpPcap.dll
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PacketDotNet.xml
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SharpPcap.xml
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Sniffer.mainform.resources
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Sniffer.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\PacketDotNet.xml
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SharpPcap.xml
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Sniffer.mainform.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Sniffer.Form2.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Sniffer.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Sniffer.Form3.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Sniffer.Form4.resources
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Sniffer.Form3.resources
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Sniffer.Form4.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Sniffer.Form5.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Sniffer.Form6.resources
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Sniffer.Form5.resources
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Sniffer.Form6.resources
+G:\课程\大三上\计算机通信网\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\Sniffer.Filter.resources
